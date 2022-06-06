@@ -1,1 +1,1 @@
-https://Tati-Zhurr.github.io/rsschool-cv/cv
+https://Tati-Zhurr.github.io/rsschool-cv/
