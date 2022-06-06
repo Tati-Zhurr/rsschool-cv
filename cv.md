@@ -1,4 +1,4 @@
-![foto](C:\Users\zhtv8\OneDrive\Documents\foto.jpg)
+![foto](https://github.com/Tati-Zhurr/images/blob/eb3dbd2c1182c77f73d893d2cf6e2614a8aa2ac2/foto.JPG)
 # **Tatsiana Zhurauliova**
 ****************
 ## **CONTACTS**
