@@ -1,4 +1,4 @@
-![foto](C:\Users\zhtv8\OneDrive\Documents)
+![foto](C:\Users\zhtv8\OneDrive\Documents\foto)
 # **Tatsiana Zhurauliova**
 ****************
 ## **CONTACTS**
@@ -27,12 +27,18 @@ const multiply = (num1, num2) => {
     let resulMultiply = multiply(3,5);
     console.log (resulMultiply);
 ```
+************
 ## **WORK HISTORY**
 ### * Lead Engineer/ AGAT- control sistems (Minsk, Belarus) 08.2011 - 09.2019
 ### * Artist-illustrator/ freelance (Murcia, Spain) 10.2019 - 05.2022
 ### * Junior Developer, project CV [project](git@github.com:Tati-Zhurr/rsschool-cv.git) / 06.2022 
-
+****************
 ## **EDUCATION**
 ### * Engineer of telecommunications/ Belarusian State University of Informatics and Radioelectronics - Minsk, Belarus, 2011
 ### * JavaScript/Front-end. Stage 0, 2022
+****************
+## **LANGUAGE SKILLS**
+### * Russian - Native
+### * English - B2
+### * Spanish - C1
 
