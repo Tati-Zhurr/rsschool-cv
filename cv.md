@@ -1,4 +1,4 @@
-![foto](C:\Users\zhtv8\OneDrive\Documents\foto)
+![foto](C:\Users\zhtv8\OneDrive\Documents\foto.jpg)
 # **Tatsiana Zhurauliova**
 ****************
 ## **CONTACTS**
