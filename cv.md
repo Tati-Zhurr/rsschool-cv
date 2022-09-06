@@ -16,7 +16,8 @@
 ## **SKILLS**
 ### * GitHub,
 ### * Markdown,
-### * HTML/CSS.
+### * HTML/CSS,
+### * JavaScript.
 ****************
 ## **CODING**
 ```
