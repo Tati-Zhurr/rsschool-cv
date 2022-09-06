@@ -20,12 +20,11 @@
 ****************
 ## **CODING**
 ```
-//Multiply Function
-const multiply = (num1, num2) => {
-    return num1 * num2;
-    };
-    let resulMultiply = multiply(3,5);
-    console.log (resulMultiply);
+//function countCats(matrix) {
+  let sum =0;
+ matrix.forEach(e =>{e.forEach(el => {if (el === '^^'){ return sum++;}})});
+ return sum;
+}
 ```
 ************
 ## **WORK HISTORY**
